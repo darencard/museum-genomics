@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/darencard/museum-genomics/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the data repository for Card et al. Museum Genomics. Please see below for descriptions of how to retrieve data files associated with this article.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Historical Growth of Major Natural History Museum Cryogenic Collections (2010-2019)
 
-### Markdown
+Data on temporal patterns of cryogenic collection growth for five major natural history collecions between 2010 and 2019: American Museum of Natural History (AMNH), Louisiana State University Museum of Natural Science (LSUMZ), Harvard University Museum of Comparative Zoology (MCZ), University of New Mexico Museum of Southwest Biology (MSB) and University of California Museum of Vertebrate Zoology (MVZ).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Both annual and culumulative counts of cataloged records per collection are available in a [tab-delimited text file]().
 
-```markdown
-Syntax highlighted code block
+## Empirical Patterns of Genome Asseembly Contiguity for Avian Genome Assemblies Based on Varying Tissue Type and Preservation Protocol
 
-# Header 1
-## Header 2
-### Header 3
+The Edwards laboratory at Harvard University has gathered internal data on genome assembly scaffold contiguity (N50) for avian genome assemblies generated in recent years. All assemblies utilized 10x Genomics but the original input tissue samples were collected from various tissues and were preserved using different protocols.
 
-- Bulleted
-- List
+For each genome in this dataset, the species, voucher information, tissue source and preservation method,  genome size, sequencing coverage, and contig and scaffold contiguity metrics (N50) are available in a [tab-delimited text file]().
 
-1. Numbered
-2. List
+## Overview of Holdings of Next-Generation, RNA-ready Genomic Samples for Diverse Avian Species in the Museum of Comparative Zoology at Harvard University
 
-**Bold** and _Italic_ and `Code` text
+The Ornithology Collection at the Museum of Comparative Zoology has since 2012 collected high quality genomic samples from diverse avian taxa around the globe. These samples are compatible with RNA-seq and other methods utilizing very high quality tissue samples, which are rare in most natural history collections at this time. Most samples were minced and preserved in RNAlater within 10 minutes of sacrifice and then flash frozen in liquid nitrogen after ~12 hours at cool temperatures. A small percentage of samples were directly flash frozen without RNAlater.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/darencard/museum-genomics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A matrix with counts of high quality samples from 13 different tissue types in 101 avian species is available as a [tab-delimited text file]().
