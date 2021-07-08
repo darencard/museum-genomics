@@ -22,8 +22,8 @@ A matrix with counts of high quality samples from 13 different tissue types in 1
 
 ## (Possible) Community Engagement
 
-It occurred to me that we could also use a site like this to engage with readers in a simple and potentially powerful way. For example:
+It occurred to me that we could also use a site like this to engage with readers in a simple and potentially powerful way. I plan to delete this section and create a minimal data repository for publication, but I put it here temporarily to outline some ideas I had for how we can use the non-static nature of GitHub to our advantage. For example:
 
 1. We can create a link that will allow readers to leave feedback in the GitHub Issues area of this repository. This is normally used for reporting bugs or issues in software, but we could also use it to allow readers to leave any feedback they have on the review. This could potentially stimulate further discussions about the article in the broader community with a ready-made forum to facilitate it.
 
-2. In a more targeted manner, we can request that readers send citations of new papers that compare preservation techniques or other important factors in museum science. It is simple to link to a Google Form where they provide a DOI and those data automatically get dumped into a Google Sheet, which we can link to so the community also see new papers as they emerge.
+2. In a more targeted manner, we can request that readers send citations of new papers that compare preservation techniques or other important factors in museum science. It is simple to link to a Google Form where they provide a DOI and those data automatically get dumped into a Google Sheet, which we can link to so the community also see new papers as they emerge. We could even commit to periodic new releases of the repository (with citable DOIs) as a means of amassing useful data over time, which migh facilitate future meta-analyses and other tangible research projects. At the very least, it might be an easy way of keeping track of relevant litature in our group alone, assuming others see it and make contributions.
